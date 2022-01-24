@@ -5,7 +5,9 @@ A broadly applicable algorithm for dimensionality reduction to reveal underlying
 The code is for article "A data-driven dimensionality-reduction algorithm for the exploration of patterns in biomedical data" by Md Tauhidul Islam and Lei Xing, in press, 2020, Nature
 Biomedical Engineering
 
-Codes here are as protected format (.p). Please contact at tauhid at stanford.edu if you need the MATLAB source code for your analyses. Please also check this repository for Python implementation.
+# Codes here are as protected format (.p). Please contact at tauhid at stanford.edu if you need the MATLAB source code for your analyses.
+
+Please also check this repository for Python implementation.
 
 Please cite the paper as follows:
 
